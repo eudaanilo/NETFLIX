@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    width: 100vw;
+    height: 100vh;
+    background-color: black;
+}
+
+header{
+    align-items: center;
+}
+
+.botoes{
+    margin-left: 80%;
+    align-conten7;
+    width: 100px;
+    height: 20px;
+    background-color: red;
+    border-radius: 10%;
+    color:#e1e1e1;
+}
+
+.p_branco{
+    margin-top: 500px;
+    color: white;
+}
+
+#rodape{
+    color: white;
+}
